@@ -1,0 +1,7 @@
+torch>=2.2
+numpy
+matplotlib
+scipy
+pytest
+# Hypothesis 2 (CIFAR-10 / ViT) only:
+# torchvision
